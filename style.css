@@ -1,0 +1,64 @@
+.navbar{
+  padding: 0;
+  --bs-navbar-active-color: white;
+  --bs-navbar-brand-color: white;
+  --bs-navbar-hover-color: #ffc107;
+  --bs-navbar-brand-hover-color: #ffc107;
+}
+.body{
+    background-color: black;
+}
+.navbar-var{
+    color: white;
+    
+}
+.nav-link-active{
+    background-color: aquamarine;
+}
+.nav-link{
+    color: white;
+}
+.nav-brand{
+    color: white;
+}
+.barra{
+    background-color: black;
+}
+.div-1{
+    background-color: black;
+    padding: 30px;
+}
+    
+
+.h1{
+    background-color: black;
+    margin: 0px;
+
+
+}
+.h2{
+    background-color: black;
+    margin: 0px;
+    color: white;
+}
+.h3{
+    background-color: black;
+    margin: 10px;
+    color: black;
+    
+}
+.btn-primary{
+    --bs-btn-bg: red;
+    --bs-btn-border-color: red;
+}
+
+.row>*{
+    /* padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5); */
+}
+.row-2{
+    color: white;
+}
+.h1-2{
+    color: white;
+}
